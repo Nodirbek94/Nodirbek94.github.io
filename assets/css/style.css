@@ -1,3 +1,9 @@
 .media {
     margin: 0 30px;
 }
+.container {
+    margin-left: 15px;
+}
+.row {
+    margin-left: 5px;
+}
