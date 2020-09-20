@@ -6,4 +6,4 @@
         <li>CSS
           <li>Bootstrap
             <ul>
-<img src="./images/Screen%20Shot%202020-09-18%20at%209.21.14%20PM.png">              
+<img src="./assets/images/Screen%20Shot%202020-09-18%20at%209.21.14%20PM.png">              
